@@ -26,7 +26,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By <h2>TULSI PANCHASARA</h2>
+              By <h2>TULSI PANCHASARA (TULIP) </h2>
             </a>
           </div>
         </div>
